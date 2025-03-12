@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/omairsohail3" target="blank"><img src="https://img.shields.io/twitter/follow/omairsohail3?logo=twitter&style=for-the-badge" alt="omairsohail3" /></a> </p>
 
-- 🔭 I’m currently working on [aurkuch](https://soft-llama-01eb4c.netlify.app/)
+- 🔭 I’m currently working on [MCHD](https://manager.mchd-manager.com/)
 
 - 🌱 I’m currently learning **Vue3 , Nuxtjs**
 
